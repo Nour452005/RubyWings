@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RubyWings.Contracts/RubyWings.Contracts.csproj" />
+  <Project Path="RubyWings.DepartureControl/RubyWings.DepartureControl.csproj" />
+  <Project Path="RubyWings.Reservation/RubyWings.Reservation.csproj" />
+  <Project Path="RubyWings.Tests/RubyWings.Tests.csproj" />
+</Solution>
